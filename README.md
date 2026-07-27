@@ -14,19 +14,18 @@
 Tradução: [▓▓░░░░░░░░] 20%</p>
 Edição:   [▓▓▓▓▓▓░░░░] 60%</p>
 Revisão:  [░░░░░░░░░░] 00%</p>
-
-<br/>
+<br>
 
 <h3>Lançamento</h3>
 <p>A ser anunciado</p>
-<br/>
+<br>
 
 <img alt="cale01" src="https://github.com/user-attachments/assets/083baa41-b905-4ae3-a67f-bb5d5f723927" />
 <img alt="cale02" src="https://github.com/user-attachments/assets/ebe96ae9-1a0a-4870-9964-eed16c0096a9" />
 <img alt="cale03" src="https://github.com/user-attachments/assets/32199810-2e84-4447-b415-7f0c12cbe4dd" />
 <img alt="cale04" src="https://github.com/user-attachments/assets/ea5ce6ea-8b0c-4ea9-8495-02e96d5e1363" />
 <img alt="cale05" src="https://github.com/user-attachments/assets/1ff56ba6-4a06-45fd-9d03-7ca5fbea2d47" />
-<br/><br/>
+<br>
 
 
 <h3>Equipe</h3>
