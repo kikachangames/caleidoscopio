@@ -1,6 +1,4 @@
-<img src="https://img.shields.io/badge/Jogo%20de%20Sobreviv%C3%AAncia-d32f2f" alt="Jogo de Sobrevivência">
-<img src="https://img.shields.io/badge/Horror-800020" alt="Horror">
-<img src="https://img.shields.io/badge/Mist%C3%A9rio-4a148c" alt="Mistério">
+<img src="https://img.shields.io/badge/Jogo%20de%20Sobreviv%C3%AAncia-d32f2f" alt="Jogo de Sobrevivência"><img src="https://img.shields.io/badge/Horror-800020" alt="Horror"><img src="https://img.shields.io/badge/Mist%C3%A9rio-4a148c" alt="Mistério">
 <img width="1600" height="900" alt="cale00" src="https://github.com/user-attachments/assets/3bd2fafc-ab63-44b4-98c4-e8a19ffb5777" />
 
 <h3>Jogos mortais e similares são um gênero bastante popular ultimamente... todo mundo já deve ter visto pelo menos um desses em um mangá ou algo assim. Elas podem ter pensado... que esse tipo de coisa está ficando meio idiota e fora de moda hoje em dia, mas... dessa vez são suas próprias vidas em risco.
