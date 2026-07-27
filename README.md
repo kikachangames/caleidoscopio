@@ -7,7 +7,7 @@
 <br>
 
 <h3>Sinopse</h3>
-<p>Quatro amigas acordam presas em um quarto desconhecido, acorrentadas a intimidadoras cadeiras de tortura por colares de ferro. Sem memórias de como foram parar ali e diante de um misterioso garoto trancado em uma gaiola no teto, elas são surpreendidas por uma voz ameaçadora que ecoa pela sala trazendo um ultimato: enfrentar um julgamento onde ou três delas escapam, ou todos morrem quando o tempo acabar. Lutando contra o terror e o pavor iminente da morte, elas precisam encontrar uma saída antes que seja tarde demais.</p>
+<p>Quatro amigas acordam presas em um quarto desconhecido, acorrentadas a intimidadoras cadeiras de tortura por colares de ferro. Sem memórias de como foram parar ali e diante de um misterioso garoto trancado em uma gaiola no teto, elas são surpreendidas por uma voz ameaçadora que ecoa trazendo um ultimato: enfrentar um julgamento onde ou três delas escapam, ou todos morrem quando o tempo acabar. Lutando contra o terror e o pavor iminente da morte, elas precisam encontrar uma saída antes que seja tarde demais.</p>
 <br>
 
 <h3>Progresso</h3>
