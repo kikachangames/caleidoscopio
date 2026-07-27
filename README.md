@@ -26,7 +26,7 @@ Revisão:  [░░░░░░░░░░] 00%</p>
 <img alt="cale04" src="https://github.com/user-attachments/assets/ea5ce6ea-8b0c-4ea9-8495-02e96d5e1363" />
 <img alt="cale05" src="https://github.com/user-attachments/assets/1ff56ba6-4a06-45fd-9d03-7ca5fbea2d47" />
 <br>
-
+<br>
 
 <h3>Equipe</h3>
 
