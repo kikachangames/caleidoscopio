@@ -1,5 +1,5 @@
 <img src="https://img.shields.io/badge/Jogo%20de%20Sobreviv%C3%AAncia-d32f2f" alt="Jogo de Sobrevivência"> <img src="https://img.shields.io/badge/Horror-800020" alt="Horror"> <img src="https://img.shields.io/badge/Mist%C3%A9rio-4a148c" alt="Mistério">
-<img width="1600" height="900" alt="cale00" src="https://github.com/user-attachments/assets/3bd2fafc-ab63-44b4-98c4-e8a19ffb5777" />
+<img alt="cale00" src="https://github.com/user-attachments/assets/3bd2fafc-ab63-44b4-98c4-e8a19ffb5777" />
 
 <h2>"Jogos mortais e similares são um gênero bastante popular ultimamente... todo mundo já deve ter visto pelo menos um desses em um mangá ou algo assim. Elas podem ter pensado... que esse tipo de coisa está ficando meio idiota e fora de moda hoje em dia, mas... dessa vez são suas próprias vidas em risco."</h2>
 
@@ -18,7 +18,11 @@ Revisão:  [░░░░░░░░░░] 00%</p>
 <p>A ser anunciado</p>
 <br/>
 
-
+<img alt="cale04" src="https://github.com/user-attachments/assets/ea5ce6ea-8b0c-4ea9-8495-02e96d5e1363" />
+<img alt="cale03" src="https://github.com/user-attachments/assets/32199810-2e84-4447-b415-7f0c12cbe4dd" />
+<img alt="cale02" src="https://github.com/user-attachments/assets/ebe96ae9-1a0a-4870-9964-eed16c0096a9" />
+<img alt="cale01" src="https://github.com/user-attachments/assets/083baa41-b905-4ae3-a67f-bb5d5f723927" />
+<img alt="cale05" src="https://github.com/user-attachments/assets/1ff56ba6-4a06-45fd-9d03-7ca5fbea2d47" />
 
 <br/><br/>
 
@@ -58,11 +62,11 @@ Revisão:  [░░░░░░░░░░] 00%</p>
 <br/>
 
 <h3>Download do patch</h3>
-<p><a href="https://github.com/kikachangames/air-steam/releases/download/1.0/AIR-PT-BR.exe"><img src="https://github.com/user-attachments/assets/5a8ddd1b-80e8-44f0-a3bb-95727109fd44"/></a><p/>
+<p>Em breve...<p/>
 <br/>
   
-<iframe src="https://store.steampowered.com/widget/2983250/?t=Herdando%20da%20falecida%20m%C3%A3e%20um%20boneco%20de%20pano%2C%20uma%20habilidade%20peculiar%20e%20a%20miss%C3%A3o%20de%20encontrar%20a%20%22garota%20dos%20c%C3%A9us%22%2C%20Yukito%20viaja%20pelo%20Jap%C3%A3o%20em%20uma%20busca%20sem%20sucesso.%20Sua%20jornada%20o%20leva%20a%20uma%20pacata%20cidade%20litor%C3%A2nea%20onde%2C%20com%20a%20chegada%20do%20ver%C3%A3o%2C%20seu%20encontro%20com%20a%20jovem%20Misuzu%20sela%20o%20seu%20destino." frameborder="0" width="100%" height="190"></iframe>
+
 
 <hr>
-<p><small>Última atualização: 23/07/2026.</small></p>
+<p><small>Última atualização: 27/07/2026.</small></p>
 <p><small>Kikachan Games (Desde 2024) <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a> - <a href="https://kikachan-games.itch.io/" target="_blank">Itch</a></small></p>
