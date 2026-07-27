@@ -19,7 +19,7 @@ Revisão:  [░░░░░░░░░░] 00%
 <br>
 
 <h3>Lançamento</h3>
-<p>A ser anunciado</p>
+<p>A ser anunciado.</p>
 <br>
 
 <img alt="cale01" src="https://github.com/user-attachments/assets/083baa41-b905-4ae3-a67f-bb5d5f723927" />
