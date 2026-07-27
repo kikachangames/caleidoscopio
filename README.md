@@ -1,6 +1,7 @@
 <img src="https://img.shields.io/badge/Jogo%20de%20Sobreviv%C3%AAncia-d32f2f" alt="Jogo de Sobrevivência">
 <img src="https://img.shields.io/badge/Horror-800020" alt="Horror">
 <img src="https://img.shields.io/badge/Mist%C3%A9rio-4a148c" alt="Mistério">
+<img width="1600" height="900" alt="cale00" src="https://github.com/user-attachments/assets/3bd2fafc-ab63-44b4-98c4-e8a19ffb5777" />
 
 <h3>Jogos mortais e similares são um gênero bastante popular ultimamente... todo mundo já deve ter visto pelo menos um desses em um mangá ou algo assim. Elas podem ter pensado... que esse tipo de coisa está ficando meio idiota e fora de moda hoje em dia, mas... dessa vez são suas próprias vidas em risco.
 </h3>
@@ -16,21 +17,13 @@ Revisão:  [░░░░░░░░░░] 00%</p>
 <br/>
 
 <h3>Lançamento</h3>
-<p>☀️23/07/2026</p>
+<p>A ser anunciado</p>
 <br/>
 
-<img alt="A1" src="https://github.com/user-attachments/assets/2debeaad-54fb-41d4-9959-8f557c4e6f22" />
-<img alt="A2" src="https://github.com/user-attachments/assets/0eff4297-3145-4bf7-bce9-c78ee96423b2" />
-<img alt="A3" src="https://github.com/user-attachments/assets/36c1e6b0-fd53-48fc-aceb-54b7d4fb693e" />
-<img alt="A4" src="https://github.com/user-attachments/assets/8e261c4f-01e7-491b-a647-02c7fe7bbace" />
-<img alt="A5" src="https://github.com/user-attachments/assets/12d98eef-d489-4245-a943-5452e19f97b9" />
+
+
 <br/><br/>
 
-<h3>Outras versões</h3>
-<p>Para informações sobre as traduções de outras versões, confira os links abaixo:</p>
-<p>🏷️<a href="https://kikachangames.github.io/air/">AIR (Standard Edition)</a></p>
-<p>🏷️<a href="https://kikachangames.github.io/air/psp/">AIR (PSP)</a></p>
-<br/>
 
 <h3>Equipe</h3>
 
