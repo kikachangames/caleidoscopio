@@ -13,7 +13,7 @@
 <h3>Progresso</h3>
 <pre>
 Tradução: [▓▓▓▓░░░░░░] 45%
-Gráficos:   [▓▓▓▓▓▓░░░░] 60%
+Gráficos: [▓▓▓▓▓▓░░░░] 60%
 Revisão:  [░░░░░░░░░░] 00%
 </pre>
 <br>
